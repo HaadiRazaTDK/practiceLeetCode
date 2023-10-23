@@ -13,7 +13,7 @@ public:
                     break;              
                     }   
             if (i==nums1size-1){
-            	std::sort(nums1.begin(), nums1.end());
+            	sort(nums1.begin(), nums1.end());
             }
             }
         }
