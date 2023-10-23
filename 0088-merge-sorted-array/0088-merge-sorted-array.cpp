@@ -13,11 +13,10 @@ public:
                     break;              
                     }   
             if (i==nums1size-1){
-            	sort(nums1.begin(), nums1.end());
+            	std::sort(nums1.begin(), nums1.end());
             }
             }
         }
 
     }
 };
-
